@@ -1,7 +1,8 @@
 package Consumer.Projects;
 
 public class Movie {
-    String name;
+    public String name;
+    public String result;
     String hero;
     String heroiene;
 
